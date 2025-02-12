@@ -1,0 +1,5 @@
+numpy
+mido
+tensorflow
+pretty_midi
+streamlit
